@@ -19,4 +19,5 @@ The game allows to find a path between two points (using A star algorithm)
 
 ## Class Structure 
 
-![Schem](https://github.com/SvetlanaArt/Unity_FindTheWay/assets/148551551/2fcac6f8-b4cc-4be9-9eb3-e928bdf545ba)
+![Schem](https://github.com/SvetlanaArt/Unity_FindTheWay/assets/148551551/f4982be1-4e60-4984-a91d-75a5b7b3aa7b)
+
